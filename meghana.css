@@ -1,0 +1,41 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+   margin-left: 25px;
+   list-style-type: upper-roman;
+ }
+ nav li{
+   text-align: center;
+   width: 200px;
+   border: 2px solid black;
+   border-radius: 25px;
+   background-color: cyan;
+   padding: 5px;
+   margin: 5px;
+   list-style-type: upper-roman;
+   display: inline-block;
+ }
+
+ main img{
+  width: 24%; 
+  border: dashed; 
+  border-color: green; 
+  border-width: 10px;
+  margin: none; 
+  padding: min(10px);
+ }
+ p{
+  color: green; 
+  text-align: left; 
+  font-weight: bold; 
+  font-family: Georgia;
+ }
