@@ -1,0 +1,38 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ nav li{
+    display: inline-block;
+    padding: 15px;
+    margin: 20px;
+    background-color: aqua;
+    border: black 2px solid;
+    border-radius: 30px;
+ }
+
+ img{
+    box-sizing: border-box;
+    width: 24%;
+    padding: 15px;
+    border: dotted 2px green;
+ }
+
+ p{
+    font-family: Cambria, 'Times New Roman';
+    color: blue;
+    font-size: small;
+    font-style: italic;
+ }
